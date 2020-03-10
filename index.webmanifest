@@ -1,0 +1,18 @@
+{
+  "name": "Enzo Crance",
+  "short_name": "Enzo Crance",
+  "lang": "en-us",
+  "theme_color": "#4caf50",
+  "background_color": "#4caf50",
+  "icons": [{
+    "src": "/images/icon_hu977c23e5e72cc283fb9894b0a4041836_16401_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu977c23e5e72cc283fb9894b0a4041836_16401_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
